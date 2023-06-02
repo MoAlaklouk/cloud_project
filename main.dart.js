@@ -27447,7 +27447,7 @@ s=t.Gf
 q.Ji$=new A.OB(A.aR(s))
 q.Ji$=new A.OB(A.aR(s))
 p.rv$="http://clouddemo.shawermaalrayan.com/api/"
-p.sX1(0,A.at(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","*","Access-Control-Allow-Methods","*","Access-Control-Allow-Credentials","true","Accept","*/*","Accept-Encoding","gzip, deflate, br","Connection","keep-alive"],t.N,t.z))
+p.sX1(0,A.at(["Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Content-Type","Access-Control-Allow-Credentials","true","Referrer-Policy","no-referrer-when-downgrade","Accept","*/*","Accept-Encoding","gzip, deflate, br","Connection","keep-alive"],t.N,t.z))
 r.D(r,$.b0k())
 r.D(r,new A.EV(!0,!0,!0,!0,!0))
 return q},
