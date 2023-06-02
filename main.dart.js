@@ -27449,7 +27449,7 @@ p.Ji$=new A.OB(A.aR(s))
 r=new A.OB(A.aR(s))
 r.b=!0
 p.Ji$=r
-o.sX1(0,A.at(["Accept","*/*","Accept-Encoding","gzip, deflate, br","Connection","keep-alive"],t.N,t.z))
+o.sX1(0,A.at(["Accept","*/*","Accept-Encoding","gzip, deflate, br","Connection","keep-alive","X-Requested-With","XMLHttpRequest"],t.N,t.z))
 q.D(q,$.b0j())
 q.D(q,new A.EV(!0,!0,!0,!0,!0))
 return p},
